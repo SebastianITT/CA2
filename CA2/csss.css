@@ -1,0 +1,48 @@
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #286090;
+    background-color:#f90031;
+}
+.container-fluid {
+    padding-right: 12px;
+    padding-left: 12px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #f90031;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #286090;
+    font-size: 1.5em;
+}
+.navbar-inverse .navbar-brand {
+    color: #0089ff;
+}
+
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.pagination {
+  margin-bottom: 30px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 0px;
+  }
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.pagination {
+  margin-bottom: 30px;
+}
+img {
+    vertical-align: middle;
+    width: 100%;
+}
+.image{
+	margin-top:-2em;
+}

@@ -1,0 +1,30 @@
+.navbar {
+    background-color: #000050;
+}
+.style {
+    width: 82%;
+}
+
+element.style {
+    width: 70%;
+}
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #a94442;
+}
+
+.panel {
+    margin-bottom: 20px;
+    background-color: #fcf8e3;
+    border: 1px solid transparent;
+    border-radius: 4px;
+	
+	.body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;

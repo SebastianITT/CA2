@@ -1,0 +1,95 @@
+
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.masthead {
+  background: url('http://gamepreorders.com/wp-content/uploads/2017/06/fc-barcelona-theme.jpg');
+  
+}
+
+.overlay {
+  padding: 5rem 0;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+ root{
+ th{}}*,::before{box-sizing:border-box}
+ul{margin-top:0;margin-bottom:1rem}
+a{text-decoration:none}
+.display-1{font-size:6rem;font-weight:300}
+.display-2{font-size:3.5rem;font-weight:300;line-height:1.2}
+.img-fluid{max-width:100%;height:auto}
+.container{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}{
+
+
+	.container{max-width:960px}}@media (min-width:1200px){
+		.container{max-width:1140px}}
+		.container-fluid{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}
+		.row{;display:flex;flex-wrap:wrap;margin-right:-15px;margin-left:-15px}
+		.order-2{order:2}{
+		}
+	
+	
+@media {
+.col-md-6{flex:0 0 50%;max-width:50%}
+
+
+
+ .active{display:block}
+ .navbar{position:relative;justify-content:space-between;padding:.5rem 1rem};
+ .navbar-brand:hover{text-decoration:none}
+ .navbar-nav{display:flex;flex-direction;list-style:none}
+ .nav-link{padding-right:0;padding-left:0}
+ 
+ .nav-link{padding-right:.5rem;padding-left:.5rem}
+ .navbar-collapse{display:flex;}
+ .navbar-toggler{display:none}
+ .navbar-brand{color:#fff}
+ .nav-link{color:rgba(255,255,255,.5)}
+  .active>.nav-link{color:#fff}
+
+ 
+
+.modal-footer>:not(:last-child){margin-right:.25rem}@media (min-width:576px){
+	
+	
+		
+		.bg-dark{background-color:#343a40}
+		.rounded-circle{border-radius:50%}
+		.fixed-top{position:fixed;top:0;right:0;left:0;z-index:1030}
+
+		
+		.p-5{padding:3rem}.pt-5,
+		.py-5{padding-top:3rem}
+		.pb-5,.py-5{padding-bottom:3rem}
+		
+		.ml-auto{margin-left:auto}
+
+
+
+		
+		
+		
+		
+		
+	
+		
+		
+	.text-white{color:#fff}
+	
+
+@media (min-width: 992px) {
+  header.masthead>.overlay {
+    padding: 10rem 0;
+  }
+}
+
